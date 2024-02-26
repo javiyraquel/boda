@@ -1,0 +1,16 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+@import url(style.css);
+#bigday {
+    margin-top: 20px;
+}
+
+.remarcable {
+    color: var(--primary-color);
+}
+
+.divSalidas {
+    display: flex;
+    justify-content: space-around;
+}
