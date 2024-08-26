@@ -800,9 +800,20 @@ select.form-control:not([size]):not([multiple]){
 
 
 
+.lbox-details {
+	padding-left: 450px;
+}
 
+@media (max-width: 767px) {
+	.lbox-details {
+		padding-left: 185px;
 
+	}
+}
 
+.lbox-details3 {
+	padding-left: 0;
+}
 
 
 
